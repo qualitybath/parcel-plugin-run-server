@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-run-server",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "license": "MIT",
   "repository": "qualitybath/parcel-plugin-run-server",
