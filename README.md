@@ -4,7 +4,7 @@ A [Parcel](https://parceljs.org/) plugin to start (and restart) a server while r
 
 ## Why?
 
-If using Parcel to build a node application (using `--target=node`) it's useful to have the server restart whenever there a change is made.
+If using Parcel to build a node application (using `--target=node`) it's useful to have the server restart whenever there is a change made.
 
 _This plugin will only run if parcel is ran in `watch` mode with a `target` of `node`_
 
